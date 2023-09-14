@@ -20,8 +20,5 @@ public class Dto {
     public static class postController{
         @NotNull(message = "name")
         String name;
-
-        @NotNull
-        String dfd;
     }
 }
