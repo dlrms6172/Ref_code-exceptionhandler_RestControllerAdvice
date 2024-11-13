@@ -1,6 +1,6 @@
-package com.springboot.exception.handler.controller;
+package com.springboot.ref_code.exceptionhandler.controller;
 
-import com.springboot.exception.handler.exception.ValidationCode;
+import com.springboot.ref_code.exceptionhandler.exception.ValidationCode;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

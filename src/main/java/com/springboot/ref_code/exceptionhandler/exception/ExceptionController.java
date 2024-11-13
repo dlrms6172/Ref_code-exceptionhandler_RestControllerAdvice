@@ -1,4 +1,4 @@
-package com.springboot.exception.handler.exception;
+package com.springboot.ref_code.exceptionhandler.exception;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageNotReadableException;

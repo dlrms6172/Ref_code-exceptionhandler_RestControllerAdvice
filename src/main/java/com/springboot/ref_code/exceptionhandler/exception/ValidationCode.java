@@ -1,4 +1,4 @@
-package com.springboot.exception.handler.exception;
+package com.springboot.ref_code.exceptionhandler.exception;
 
 public enum ValidationCode {
     SUCCESS(200,"Success","성공"),

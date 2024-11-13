@@ -1,4 +1,4 @@
-package com.springboot.exception.handler;
+package com.springboot.ref_code.exceptionhandler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
